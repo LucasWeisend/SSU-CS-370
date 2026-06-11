@@ -1,12 +1,11 @@
 # SSU-CS-370
 Designated repo for Software Design &amp; Development - CS 370 at Sonoma State University
 
-## Term Project - Auction website
-The professor for the class, [Robert James Bruce](https://www.robertjamesbruce.com/), had us work on a this project over the course of the semester.
+*This project was overseen and graded by [Robert James Bruce](https://www.robertjamesbruce.com/)*
 
 ---
 
-## Dream Team Auction — Full-Stack Web Application
+## Term Project: Dream Team Auction — Full-Stack Web Application
 
 A fully functional **online auction platform** built from scratch as the semester-long term project for CS 370 (Software Design & Development) at Sonoma State University. The application lets users register, list items for auction, place competing bids, and track all of their activity in a personal transaction dashboard.
 
